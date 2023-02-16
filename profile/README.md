@@ -23,7 +23,7 @@ When contributing to projects remember the following:
       format_code_in_doc_comments = true
       blank_lines_upper_bound = 2 
       force_multiline_blocks = true
-      qcontrol_brace_style = "AlwaysNextLine"
+      control_brace_style = "AlwaysNextLine"
       hex_literal_case = "Upper"
       reorder_imports = true
       fn_single_line = true
