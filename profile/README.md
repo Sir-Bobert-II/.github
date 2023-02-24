@@ -1,5 +1,8 @@
 # Sir-Bobert-II
 
+<!--Please donate on LiberaPay to support the open-source products seen below.  
+![Please Dontate on libera pay](https://img.shields.io/liberapay/receives/Sir-Bobert-II.svg?logo=liberapay)-->
+
 ## Contact
 
 There are two main forms of contact:
@@ -11,6 +14,8 @@ There are two main forms of contact:
 
 - [BOJ - Bot of Justice](https://github.com/Sir-Bobert-II/BOR) -- Discord bot written in rust.
 
+- [rinfo](https://github.com/Sir-Bobert-II/rinfo) -- Get basic information about your system from the command-line.
+
 ### Contributing
 
 When contributing to projects remember the following:
@@ -18,6 +23,7 @@ When contributing to projects remember the following:
 1. **Use a consistant code formatting**. Formatting for source code should be consistant.
     - In Rust projects, formmating should be done by `rustfmt` while using the configuration found below.
       Do not use tabs for indents, use four space indents instead.
+
       ```toml
       enum_discrim_align_threshold = 20
       format_code_in_doc_comments = true
