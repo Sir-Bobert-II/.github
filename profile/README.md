@@ -13,7 +13,6 @@ There are two main forms of contact:
 ## Projects
 
 - [BOJ - Bot of Justice](https://github.com/Sir-Bobert-II/BOR) -- Discord bot written in rust.
-
 - [rinfo](https://github.com/Sir-Bobert-II/rinfo) -- Get basic information about your system from the command-line.
 
 ### Contributing
